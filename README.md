@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi Semua 👋
+
+Perkenalkan nama saya **M. Kelvin Madrianto Fahendra**.\
+
+Saya seorang **Android Developer** Frelance di (Centra Dev Nusantara).\
+
+Saya bertanggung jawab pada pembuatan aplikasi android dengan Kotlin.\
+
+Saya juga Lulus beberapa kelas di Dicoding dan Sertifikat Bisa di lihat di [Linkedin](https://www.linkedin.com/in/m-kelvin-madrianto-fahendra-8361bb16a/) ku ya.\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/m-kelvin-madrianto-fahendra-8361bb16a/) ku ya.\
+
+Follow juga akun [Instagram](https://www.instagram.com/kelvin_mkmf/) ku ya untuk update-update terbaru aplikasi yang saya buat.\ 
 
 <!--
 **Finfrenchs/Finfrenchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
