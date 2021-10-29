@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **M. Kelvin Madrianto Fahendra**.\
 
-Saya seorang **Android Developer** Frelance di (Centra Dev Nusantara).\
+Saya seorang **Android Developer** Pemula.\
 
 Saya bertanggung jawab pada pembuatan aplikasi android dengan Kotlin.\
 
