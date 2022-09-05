@@ -2,9 +2,9 @@
 
 Perkenalkan nama saya **M. Kelvin Madrianto Fahendra**.\
 
-Saya seorang **Android Developer** Pemula.\
+Saya seorang **Android Developer**.\
 
-Saya bertanggung jawab pada pembuatan aplikasi android dengan Kotlin.\
+Saya bertanggung jawab pada pembuatan aplikasi android dengan Kotlin dan Flutter dengan bahasa Dart.\
 
 Saya juga Lulus beberapa kelas di Dicoding dan Sertifikat Bisa di lihat di [Linkedin](https://www.linkedin.com/in/m-kelvin-madrianto-fahendra-8361bb16a/) ku ya.\
 
