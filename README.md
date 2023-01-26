@@ -2,15 +2,19 @@
 
 Perkenalkan nama saya **M. Kelvin Madrianto Fahendra**.\
 
-Saya seorang **Android Developer**.\
+Saya seorang **Mobile Developer**.\
+
+Saya saat ini berprofesi sebagai **Flutter Developer** di salah satu company di Indonesia.\
 
 Saya bertanggung jawab pada pembuatan aplikasi android dengan Kotlin dan Flutter dengan bahasa Dart.\
 
-Saya juga Lulus beberapa kelas di Dicoding dan Sertifikat Bisa di lihat di [Linkedin](https://www.linkedin.com/in/m-kelvin-madrianto-fahendra-8361bb16a/) ku ya.\
+Saya juga memiliki beberapa Sertifikat Bisa di lihat di [Linkedin](https://www.linkedin.com/in/m-kelvin-madrianto-fahendra-8361bb16a/) ku ya.\
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/m-kelvin-madrianto-fahendra-8361bb16a/) ku ya.\
 
 Follow juga akun [Instagram](https://www.instagram.com/kelvin_mkmf/) ku ya untuk update-update terbaru aplikasi yang saya buat.\ 
+
+Untuk kerjasama project aplikasi (Frelance atau Part Time) bisa langsung hubungi ke [Instagram](https://www.instagram.com/kelvin_mkmf/) dan [Telegram](@Finfreenchss).\
 
 ### Github Statistic :
 <p align="left">
