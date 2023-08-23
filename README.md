@@ -4,7 +4,7 @@ Perkenalkan nama saya **M. Kelvin Madrianto Fahendra**.\
 
 Saya seorang **Mobile Developer**.\
 
-Saya saat ini berprofesi sebagai **Flutter Developer** di salah satu company di Indonesia.\
+Saya saat ini berprofesi sebagai **Flutter Developer** Freelance.\
 
 Saya bertanggung jawab pada pembuatan aplikasi android dengan Kotlin dan Flutter dengan bahasa Dart.\
 
