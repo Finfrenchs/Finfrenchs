@@ -1,20 +1,20 @@
-### Hi Semua 👋
+### Hi everyone 👋
 
-Perkenalkan nama saya **M. Kelvin Madrianto Fahendra**.\
+My name is **M. Kelvin Madrianto Fahendra**.\
 
-Saya seorang **Mobile Developer**.\
+I am a **Mobile Developer**.\
 
-Saya saat ini berprofesi sebagai **Flutter Developer** Freelance.\
+Currently, I work as a Freelance **Flutter Developer**.\
 
-Saya bertanggung jawab pada pembuatan aplikasi android dengan Kotlin dan Flutter dengan bahasa Dart.\
+I am responsible for developing Android applications using Kotlin and Flutter with Dart language.\
 
-Saya juga memiliki beberapa Sertifikat Bisa di lihat di [Linkedin](https://www.linkedin.com/in/m-kelvin-madrianto-fahendra-8361bb16a/) ku ya.\
+I also have several certificates that you can check on my [Linkedin](https://www.linkedin.com/in/m-kelvin-madrianto-fahendra-8361bb16a/).\
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/m-kelvin-madrianto-fahendra-8361bb16a/) ku ya.\
+If you're interested in getting to know me, feel free to follow my [Linkedin](https://www.linkedin.com/in/m-kelvin-madrianto-fahendra-8361bb16a/).\
 
-Follow juga akun [Instagram](https://www.instagram.com/kelvin_mkmf/) ku ya untuk update-update terbaru aplikasi yang saya buat.\ 
+Also, follow my [Instagram](https://www.instagram.com/kelvin_mkmf/) for the latest updates on the applications I create.\ 
 
-Untuk kerjasama project aplikasi (Frelance atau Part Time) bisa langsung hubungi ke [Instagram](https://www.instagram.com/kelvin_mkmf/) dan [Telegram](@Finfreenchss).\
+For application project collaborations (Freelance or Part-Time), you can directly contact me via [Instagram](https://www.instagram.com/kelvin_mkmf/) and [Telegram](@Finfreenchss).\
 
 ### Github Statistic :
 <p align="left">
