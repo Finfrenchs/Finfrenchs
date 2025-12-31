@@ -2,9 +2,9 @@
 
 My name is **M. Kelvin Madrianto Fahendra**.\
 
-I am a **Mobile Developer**.\
+I am a **Fullstack Mobile Developer**.\
 
-Currently, I work as a Freelance **Flutter Developer**.\
+Currently, I work as a Freelance **Fullstack Mobile Developer**.\
 
 I am responsible for developing Android applications using Kotlin and Flutter with Dart language.\
 
